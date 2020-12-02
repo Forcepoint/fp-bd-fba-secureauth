@@ -1,0 +1,10 @@
+admin_url: 'https://localhost'
+fba_endpoint: 'https://api-iamlab.wbsntest.net'
+fba_port: '9000'
+rose_endpoint: 'https://rose-iamlab.wbsntest.net'
+rose_port: '9500'
+mds_endpoint: 'https://mds1-iamlab.wbsntest.net'
+mds_port: '8080'
+realm_dir: './config/realms'
+log_level: 'info'
+ignore_ssl: true
